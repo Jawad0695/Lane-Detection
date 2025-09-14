@@ -1,5 +1,5 @@
-# Lane-Detection
-this is my code 
+Lane Detection
+This project implements lane detection for autonomous vehicles using computer vision techniques. The system processes camera input to detect lane markings on the road and assist in vehicle navigation.
 
 
-[Screencast from 08-14-2025 09:07:14 AM.webm](https://github.com/user-attachments/assets/0637314d-9ce2-4efd-b804-5da5a6eb52c7)
+![lane](https://github.com/user-attachments/assets/f4dc86d0-d0df-4169-8d41-c1337839700c)
